@@ -16,6 +16,8 @@
     "jsList" : [
         "src/resource.js",
         "src/app.js",
-        "src/global.js"
+        "src/global.js",
+        "src/GUILayer.js",
+        "src/ItemsLayer.js"
     ]
 }

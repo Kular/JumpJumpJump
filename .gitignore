@@ -1,6 +1,7 @@
 # Created by http://www.gitignore.io
 ### Cocos ###
 frameworks/
+frameworks
 tools/
 runtime/
 
