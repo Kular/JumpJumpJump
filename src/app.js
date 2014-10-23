@@ -11,7 +11,7 @@ var MenuLayer = cc.Layer.extend({
             res.point_png,
             res.point_png,
             function () {
-                cc.log("Start is clicked!");
+                cc.director.runScene(new GameScene());
             }, this
         );
 
