@@ -7,6 +7,7 @@ var BackgroundLayer = cc.Layer.extend({
 
     init: function() {
         this._super();
+        
     }
 
 });

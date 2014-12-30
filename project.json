@@ -22,6 +22,7 @@
         "src/ItemsLayer.js",
         "src/BackgroundLayer.js",
         "src/ControlLayer.js",
-        "src/PlayerLayer.js"
+        "src/PlayerLayer.js",
+        "src/SpringPainter.js"
     ]
 }
